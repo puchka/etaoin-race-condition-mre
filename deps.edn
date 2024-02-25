@@ -1,0 +1,5 @@
+{:path ["src"]
+ :deps {org.clojure/clojure {:mvn/version "1.11.1"}
+        org.clojure/core.async {:mvn/version "1.6.673"}
+        etaoin/etaoin {:mvn/version "1.0.40"}
+        duratom/duratom {:mvn/version "0.5.9"}}}
